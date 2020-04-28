@@ -2,7 +2,7 @@
 An extremely basic tool to add and translate RUI files
 
 
-# Get the API key
+# Get the Google API key
 You must have at least one API key associated with your project.
 
 ## To get an API key:
